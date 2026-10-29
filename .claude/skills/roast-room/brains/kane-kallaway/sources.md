@@ -5,7 +5,7 @@
 Format: id | title | url | date | words
 
 - S001 | How To Become A Master Storyteller | https://sozai.app/transcript/become-master-storyteller/ | undated | 4312
-- S002 | How to Become A Master Storyteller (It'll Blow Up Your Business) | https://sozai.app/transcript/become-master-storyteller-blow-business/ | undated | 4558
+- S002 | How to Become A Master Storyteller (It'll Blow Up Your Business) | https://sozai.app/transcript/become-master-storyteller-blow-business/ | undated | 4558 | EXCLUDED: the transcript came back as a Bengali translation, not his words; not used in this brain
 - S003 | How to Become a Storytelling Genius (Dopamine Ladders) | https://sozai.app/transcript/become-storytelling-genius-dopamine-ladders/ | undated | 5472
 - S004 | How to Build an Audience That's Obsessed With You (The Power of Suggestion) | https://sozai.app/transcript/build-audience-obsessed-power-suggestion/ | undated | 6956
 - S005 | How to Build a Cult-Like Personal Brand on Social Media | https://sozai.app/transcript/build-cult-like-personal-brand-social-media/ | undated | 6155

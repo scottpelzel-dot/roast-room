@@ -1,0 +1,36 @@
+{
+  "label": "GO",
+  "call": "Go with C, built as the A product: prove the intake agent on your current lawyer, document it in public, and sell only to family, divorce, and criminal firms. $500 for 90 days for his numbers and case study, then $1,500 a month.",
+  "recommended": "C",
+  "why": [
+    { "point": "$500 is 5% to 15% of the value if the agent saves one retained client a month.", "seat": "Hormozi", "framework": "Value Equation" },
+    { "point": "One niche; every high-ticket vertical needs its own scripts, compliance, and proof.", "seat": "Naval", "framework": "Specific knowledge" },
+    { "point": "A 20-firm after-hours audit sells the problem before you have results.", "seat": "Hormozi", "framework": "Lead magnet" },
+    { "point": "Document, don't claim; LinkedIn is where lawyers pay attention.", "seat": "Gary V", "framework": "Document, don't create" },
+    { "point": "One bad call on a criminal line costs the retainer and the only reference.", "seat": "Buffett", "framework": "Newspaper test" }
+  ],
+  "minority": { "seat": "Buffett", "quote": "Losing a quarter of the clock costs less than losing the only reference.", "would_have_to_be_true": "The first 45 days look good but hide consults that book and don't retain." },
+  "next_steps": [
+    { "when": "Tomorrow", "action": "Written sign-off on script, recording disclosure, and case study; launch and log every call." },
+    { "when": "This week", "action": "After-hours audit of 20 firms; 10 documented posts by Nov 2; one free-audit message a day." },
+    { "when": "Nov 27 / Dec 12", "action": "Day-30 check, then sign firm two at $1,500 a month." }
+  ],
+  "kill_criteria": "Zero extra consults in 30 days: fix the product. Under 1 retained client a month by day 60: rework the offer.",
+  "conditions": [
+    "Lawyer approves script, recording disclosure, case study, and posts in writing before go-live",
+    "Baseline from phone records by Nov 3",
+    "First lawyer $500 for 90 days, standard price from day 91",
+    "Day 30: zero incidents, 1 retained client from the agent, 20 audits sent",
+    "Firm two no earlier than Dec 12, set up in under 10 hours",
+    "$3,000 setup plus $1,500 a month; guarantee is a setup refund"
+  ],
+  "fights": [
+    { "crux": "Sell to other firms now, or wait?", "story": "Hormozi and Gary V wanted outreach now, Buffett and Naval wanted data first. Both moved: audit now, no price ask before day 30, firm two at day 45." },
+    { "crux": "What to charge?", "story": "Hormozi $3,000 plus $1,500; Naval $1,500 only on proof with low setup; Buffett 15% of measured value. $1,500 standard, $1,000 fallback, setup refund guarantee." },
+    { "crux": "High-ticket broadly?", "story": "Hormozi and Naval argued B at full strength; all four kept it out until 5 paying law firms with 90 days of no churn." }
+  ],
+  "amendments": [],
+  "cheapest_test": "After-hours calls to 20 local family and criminal firms.",
+  "revisit": "Day 60 (about Dec 27): retained clients a month, value per client, setup hours, audit-to-call rate.",
+  "override_note": "Quick mode: Round 3 skipped, spread 1 and no seat at ruin risk likely."
+}

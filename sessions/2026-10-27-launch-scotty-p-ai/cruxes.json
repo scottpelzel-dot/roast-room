@@ -1,0 +1,27 @@
+{
+  "cruxes": [
+    {
+      "question": "Post content now, or land the first paying clients by hand first?",
+      "sides": [
+        { "position": "Content now on new accounts", "seats": ["Gary V", "Naval", "Buffett"] },
+        { "position": "Outreach first, content as proof", "seats": ["Hormozi", "Graham"] }
+      ]
+    },
+    {
+      "question": "New accounts, or post the builds on the existing jujutsu pages?",
+      "sides": [
+        { "position": "New handles, keep jujutsu feed clean", "seats": ["Gary V", "Buffett", "Naval"] },
+        { "position": "Use the pages that already have trust", "seats": ["Sara", "Hormozi", "Graham"] }
+      ]
+    },
+    {
+      "question": "Sell custom builds, or one repeatable gym voice agent product?",
+      "sides": [
+        { "position": "One productized offer", "seats": ["Naval", "Hormozi"] },
+        { "position": "Done-for-you builds for now", "seats": ["Gary V", "Graham", "Sara"] }
+      ]
+    }
+  ],
+  "unanimous": false,
+  "note": "Everyone kills broad AI tips and picks gym owners; the fight is about order: content or clients first, and on which pages."
+}

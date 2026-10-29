@@ -1,0 +1,22 @@
+{
+  "title": "Launch Scotty P.AI on Instagram and TikTok",
+  "decision": "How to launch a new AI education brand on Instagram and TikTok, and what content makes it stand out.",
+  "brief": "A jujutsu coach with an established brand and content experience is starting Scotty P.AI. First AI voice agent client is tomorrow, no paying AI customers yet. 5 to 10 hours a week, goal is steady inbound leads in 6 months.",
+  "mode": "full",
+  "options": [
+    {"id": "A", "label": "Broad AI educator, new accounts"},
+    {"id": "B", "label": "Narrow build-in-public for small businesses"},
+    {"id": "C", "label": "Start on the existing jujutsu pages first"},
+    {"id": "D", "label": "No content yet, outreach for first clients"}
+  ],
+  "assumptions": ["Solo founder", "Jujutsu pages have a meaningful following", "Voice agent client agrees to be filmed", "AI tips niche is crowded"],
+  "weights": {
+    "garyvee": {"weight": 3, "reason": "Attention and content is his pillar"},
+    "hormozi": {"weight": 3, "reason": "Goal is leads; what it sells"},
+    "graham": {"weight": 2, "reason": "Which niche actually wants this"},
+    "blakely": {"weight": 2, "reason": "Founder-led brand from zero"},
+    "naval": {"weight": 2, "reason": "Personal brand and AI leverage"},
+    "buffett": {"weight": 1, "reason": "Downside is hours, not cash"}
+  },
+  "seats": ["garyvee", "hormozi", "graham", "blakely", "naval", "buffett"]
+}

@@ -1,0 +1,43 @@
+{
+  "label": "GO",
+  "call": "Go with D, run with B's clips: land the first paying gyms by hand and film every build. Open the new handles now, but sell one thing, the gym voice agent, to gym owners. Skip broad AI tips.",
+  "recommended": "D",
+  "why": [
+    { "point": "Broad AI tips is a commodity; a jujutsu coach building AI for gyms is a niche nobody can copy.", "seat": "Naval", "framework": "Specific knowledge" },
+    { "point": "40 personal messages a week land buyers faster than a zero-follower account.", "seat": "Graham", "framework": "Do things that don't scale" },
+    { "point": "Zero customers is an offer problem: one productized agent, 7-day install, capped guarantee.", "seat": "Hormozi", "framework": "Value Equation" },
+    { "point": "Tomorrow's build is the content; every message carries a clip.", "seat": "Gary V", "framework": "Document, don't create" },
+    { "point": "A missed call turning into a booked trial is a before and after gym owners forward.", "seat": "Sara", "framework": "Show it working" }
+  ],
+  "minority": { "seat": "Gary V", "quote": "Without a number, \"byproduct\" turns into zero posts, and you can't judge a channel you never fed.", "would_have_to_be_true": "Content alone brings inbound gym owners within 60 days." },
+  "next_steps": [
+    { "when": "Oct 28", "action": "Get $300/month terms signed, deliver and film the agent, time every hour, grab both handles." },
+    { "when": "Nov 1 to 7", "action": "10 clips up by Nov 1; after 7 days of real calls, 40 messages with the result." },
+    { "when": "Dec 31", "action": "3 paying gyms, 1 referral or testimonial, then turn the template into a fixed product." }
+  ],
+  "kill_criteria": "Under 2 calls from 100 messages: widen past gyms. Under 3 paying gyms by Dec 31: stop custom builds.",
+  "conditions": [
+    "40 gym-owner messages go out first each week, each with a clip",
+    "About 6 hours outreach and delivery, 4 content; at least 5 clips a week",
+    "Agent runs 7 days and books 1 trial before any results post",
+    "Jujutsu pages carry only delivered results, at most 1 post in 5",
+    "$1,500 setup plus $300 a month, 6-month minimum, guarantee capped at 10 hours",
+    "First build under 15 hours; running costs under $100 per client per month"
+  ],
+  "fights": [
+    { "crux": "Content first or clients first?", "story": "Gary V, Naval, and Buffett opened on content; Hormozi and Graham on outreach. Graham's math moved four seats. Clients first, content as a byproduct with a floor." },
+    { "crux": "New accounts or the jujutsu pages?", "story": "Sara wanted the pages with trust; Buffett warned of reputation risk and Gary V said the followers are students. New handles now; jujutsu pages get results only." },
+    { "crux": "Custom builds or one product?", "story": "Naval wanted a product now; Graham said sell three by hand first and Naval conceded. One name, one template, productize after three." }
+  ],
+  "amendments": [
+    { "seat": "Gary V", "amendment": "10 clips by Nov 1, then at least 5 a week.", "adopted": true, "reason": "Unopposed and fits inside 4 hours." },
+    { "seat": "Graham", "amendment": "Messages go out before content hours; track paying gyms weekly.", "adopted": true, "reason": "Matches the Round 2 consensus; wins where it meets Gary V's floor." },
+    { "seat": "Hormozi", "amendment": "First client signs $300/month terms before go-live; raise setup if close rate tops 80%.", "adopted": true, "reason": "Unopposed; tests the price." },
+    { "seat": "Buffett", "amendment": "Log running costs; reprice if over $100 of $300.", "adopted": true, "reason": "Unopposed." },
+    { "seat": "Sara", "amendment": "Love test by Dec 31: one unasked referral or on-camera testimonial.", "adopted": true, "reason": "Unopposed." },
+    { "seat": "Naval", "amendment": "Productize trigger as the goal, not a fallback.", "adopted": true, "reason": "Unopposed; matches Graham's sell-three-first rule." }
+  ],
+  "cheapest_test": "40 to 100 messages to gym owners with tomorrow's result attached.",
+  "revisit": "Dec 31, with paying gyms, close rate, hours per build, running cost per client, and inbound DMs.",
+  "override_note": ""
+}

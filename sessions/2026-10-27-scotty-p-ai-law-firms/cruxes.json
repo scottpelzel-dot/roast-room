@@ -1,0 +1,27 @@
+{
+  "cruxes": [
+    {
+      "question": "Sell to other law firms now, or wait for the first lawyer's numbers?",
+      "sides": [
+        { "position": "Outreach now with a missed-call audit", "seats": ["Hormozi", "Gary V"] },
+        { "position": "Let 60 to 90 days of numbers decide", "seats": ["Buffett", "Naval"] }
+      ]
+    },
+    {
+      "question": "What is the standard monthly price after the proof period?",
+      "sides": [
+        { "position": "$3,000 setup plus $1,500 a month", "seats": ["Hormozi"] },
+        { "position": "About $1,000 a month", "seats": ["Naval"] }
+      ]
+    },
+    {
+      "question": "Does a second high-ticket vertical belong in the first six months?",
+      "sides": [
+        { "position": "No, one avatar only", "seats": ["Hormozi", "Gary V", "Naval", "Buffett"] },
+        { "position": "Unargued: the founder's own lean", "seats": [] }
+      ]
+    }
+  ],
+  "unanimous": true,
+  "note": "Everyone picks family and criminal firms and kills gyms; the fight is about when to sell the next firm and at what price."
+}

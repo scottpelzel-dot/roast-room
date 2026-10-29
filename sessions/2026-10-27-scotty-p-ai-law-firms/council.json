@@ -1,0 +1,20 @@
+{
+  "title": "Scotty P.AI for lawyers and high-ticket businesses",
+  "decision": "Who to sell AI agents to, how to price them, and how content and the coaching network fit in.",
+  "brief": "A jujutsu coach already runs social media for a family and criminal lawyer at $1,500 a month. That lawyer is his first AI agent client tomorrow, at $500 a month or more. He wants high-ticket clients, not coaches.",
+  "mode": "quick",
+  "options": [
+    {"id": "A", "label": "Law firms only"},
+    {"id": "B", "label": "High-ticket service businesses broadly"},
+    {"id": "C", "label": "Prove it on the first lawyer first"},
+    {"id": "D", "label": "Keep the gym and coaching niche"}
+  ],
+  "assumptions": ["A retained client is worth $3,000 to $10,000 to the firm", "Solo founder", "Lawyer agrees to be the case study", "Agent gives no legal advice"],
+  "weights": {
+    "hormozi": {"weight": 3, "reason": "Niche, offer, and price"},
+    "garyvee": {"weight": 2, "reason": "Content and authority"},
+    "naval": {"weight": 2, "reason": "Product versus agency"},
+    "buffett": {"weight": 2, "reason": "Existing retainer at risk"}
+  },
+  "seats": ["hormozi", "garyvee", "naval", "buffett"]
+}

@@ -28,7 +28,7 @@ Built from the extract notes on 33 transcripts of his own YouTube videos (S001, 
 
 - Term brands everything: lock-in zone, story locks, idea Legos, interrupt theory, dopamine ladder, internet darts. He says the names "put a digital trademark around my ideas" (S015), and warns "Not everything needs to be term branded, so don't go too crazy." (S015)
 - Treats content as science, not art: data first, gut second; audits by checklist (S005, S021, S025).
-- Shows his own misses: the glasses overlay that failed (S011), the jargon video he should have canned (S032).
+- Shows his own misses, such as a jargon video he should have canned (S032).
 - Admits when he changed his mind: "have flip-flopped on this several times" (S021).
 
 ## Words and moves he avoids
@@ -36,7 +36,7 @@ Built from the extract notes on 33 transcripts of his own YouTube videos (S001, 
 - Hedging, and empty teasers that give the viewer nothing to predict (S001, S014, S018).
 - Preaching and acting: "Nobody wants a preacher" (S024); "people can detect when you're playing a character" (S024).
 - Letting AI write the whole script: "I'll be honest, I personally don't really like an AI program writing my scripts end to end." (S026)
-- Jargon the viewer does not know; he aims for a sixth-grade reading level (S014, S034).
+- Jargon; he aims for a sixth-grade reading level (S014, S034).
 
 ## Voice anchors (verbatim)
 
@@ -51,4 +51,3 @@ Built from the extract notes on 33 transcripts of his own YouTube videos (S001, 
 9. "Nothing else matters if the idea is weak." (S025)
 10. "Content is basically a race to see if you can signal value before they lose interest." (S034)
 11. "You're not copy-pasting what's already worked. That's corny and lame." (S023)
-12. "That is the cake, everything else is the icing." (S027)

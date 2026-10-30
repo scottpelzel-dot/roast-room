@@ -48,6 +48,9 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 | Sara | `council-blakely` | Consumer product and brand from zero | Will customers love it enough to sell it for you, without outside money? | `brains/sara-blakely/` |
 | Leila | `council-leila` | Leadership and scaling teams | Can your team and your leadership carry this, and who has to change? | `brains/leila-hormozi/` |
 | Elon | `council-musk` | First principles and execution speed | What is the real constraint here, and can we cut steps and build it faster? | `brains/elon-musk/` |
+| King | `council-king` | Craft and the writing life | Is it honest on the page, and will a reader keep turning pages? | `brains/stephen-king/` |
+| Coyne | `council-coyne` | Story structure and editing | Does the story work: the right genre, a clear value at stake, and scenes that turn? | `brains/shawn-coyne/` |
+| Pressfield | `council-pressfield` | Resistance and finishing the work | Are you doing the work, or is Resistance dressing up as a good reason not to? | `brains/steven-pressfield/` |
 
 - Naval (own the equity, tiny teams, self-fund) against Hormozi and Gary V (more volume, more offers, more output that the founder still has to rent their hours to).
 - Codie (buy proven cash flow) against Graham and Naval (build something new people want).
@@ -56,5 +59,9 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 - Elon (question the requirement, delete the step, attack the bottleneck now) against Wickman (give every process an owner and a cadence) and Buffett (keep cash, wait for the fat pitch). Elon and Graham agree on speed and split on whether a launch counts before the delivery system scales.
 - Elon's aggressive dates are for the team, not for customers or lenders; Martell and Leila own what his pace costs the people.
 - Leila Hormozi and Alex Hormozi are different seats and different people. Name them "Leila" and "Hormozi".
+- The writing seats (King, Coyne, Pressfield) sit together for book and manuscript decisions; the business seats join only when the question is about selling or funding the book.
+- King (start from a situation, find the story, real people first) against Coyne (genre, obligatory scenes, value shifts first). They agree on cutting what only moves people around.
+- Pressfield (finish the draft, one fix per draft, it may be Resistance) against Coyne (diagnose the structure before the next draft). Pressfield and King split on the Muse and agree on showing up every morning.
+- King's corpus is thin (8 sources); weight him on character, honesty, and cutting, not on publishing facts.
 
 If Round 1 comes back unanimous, the Chair should be suspicious and press the seat whose pillar is most at risk in Round 2.
